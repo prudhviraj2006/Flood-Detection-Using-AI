@@ -1,0 +1,7 @@
+ESP32 with sensors connected (DHT11, Ultrasonic, Water level)
+
+USB cable
+
+PC with Python installed
+
+Internet connection (for Tkinter GUI Setup & Twilio)
