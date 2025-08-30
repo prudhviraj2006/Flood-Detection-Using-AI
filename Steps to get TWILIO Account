@@ -1,0 +1,25 @@
+ Step 1: Create a Twilio Account
+Go to 👉 https://www.twilio.com/try-twilio
+
+Sign up with your email + phone number (they’ll verify with an OTP).
+
+Once signed in, you’ll land on the Twilio Console Dashboard.
+
+✅ Step 2: Get Your Twilio Credentials
+In the Twilio Console → Dashboard, you’ll find:
+
+Account SID (looks like: ACxxxxxxxxxxxxxxxxxxxxxxx)
+
+Auth Token (click Show to see)
+
+Twilio Phone Number (they’ll give you a trial number starting with +1)
+
+✅ Step 3: Verify Your Own Number
+Since the free trial only allows sending to verified numbers:
+
+Go to Phone Numbers → Verified Caller IDs
+
+Add your mobile number (e.g., +91XXXXXXXXXX)
+
+Verify via OTP
+
